@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://username.github.io/sitemap.xml
+Sitemap: https://zainmalikk786.github.io/Biography/sitemap.xml
