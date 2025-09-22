@@ -1,1 +1,110 @@
-
+[
+    {
+        "id": "knowledge-curiosity-2023-09-15",
+        "type": "quote",
+        "title": "The Marriage of Knowledge and Curiosity",
+        "content": "<p>Knowledge is what you know. Curiosity is how you grow. The marriage of the two is where wisdom is born.</p>",
+        "date": "2023-09-15",
+        "tags": ["knowledge", "curiosity", "wisdom"],
+        "lang": "en"
+    },
+    {
+        "id": "silent-river-2023-09-10",
+        "type": "poem",
+        "title": "The Silent River",
+        "content": "<p>The river flows without a sound,<br>Carving paths through stubborn ground.<br>In its depth, secrets keep,<br>While the world lies asleep.</p>",
+        "date": "2023-09-10",
+        "tags": ["nature", "silence", "flow"],
+        "lang": "en"
+    },
+    {
+        "id": "moments-presence-2023-09-05",
+        "type": "thought",
+        "title": "On Being Present",
+        "content": "<p>We spend so much time either regretting the past or worrying about the future that we forget the only moment we ever truly have is now. Presence is the greatest gift we can give ourselves and others.</p>",
+        "date": "2023-09-05",
+        "tags": ["mindfulness", "presence", "time"],
+        "lang": "en"
+    },
+    {
+        "id": "books-windows-2023-09-01",
+        "type": "quote",
+        "title": "Books as Windows",
+        "content": "<p>Books are windows to worlds we may never physically visit, but can explore deeply through the eyes and experiences of others.</p>",
+        "date": "2023-09-01",
+        "tags": ["books", "knowledge", "exploration"],
+        "lang": "en"
+    },
+    {
+        "id": "evening-whispers-2023-08-28",
+        "type": "poem",
+        "title": "Evening Whispers",
+        "content": "<p>As daylight fades to evening hue,<br>The world is painted fresh and new.<br>Whispers carried on the breeze,<br>Rustle through the sleeping trees.</p>",
+        "date": "2023-08-28",
+        "tags": ["evening", "nature", "peace"],
+        "lang": "en"
+    },
+    {
+        "id": "learning-unlearning-2023-08-25",
+        "type": "thought",
+        "title": "Learning and Unlearning",
+        "content": "<p>Sometimes the most important learning is not acquiring new knowledge, but unlearning old assumptions that no longer serve us.</p>",
+        "date": "2023-08-25",
+        "tags": ["learning", "growth", "wisdom"],
+        "lang": "en"
+    },
+    {
+        "id": "courage-fear-2023-08-20",
+        "type": "quote",
+        "title": "Courage and Fear",
+        "content": "<p>Courage is not the absence of fear, but the judgment that something else is more important than fear.</p>",
+        "date": "2023-08-20",
+        "tags": ["courage", "fear", "wisdom"],
+        "lang": "en"
+    },
+    {
+        "id": "mountain-silence-2023-08-15",
+        "type": "poem",
+        "title": "Mountain Silence",
+        "content": "<p>Upon the mountain, tall and grand,<br>I try to understand<br>The silence that surrounds me here,<br>So crystal, perfect, clear.</p>",
+        "date": "2023-08-15",
+        "tags": ["mountains", "silence", "nature"],
+        "lang": "en"
+    },
+    {
+        "id": "simple-joy-2023-08-10",
+        "type": "thought",
+        "title": "The Simple Joy",
+        "content": "<p>There is profound joy in simplicity—a warm cup of tea, a good book, the sound of rain, a meaningful conversation. We often overlook these simple pleasures in pursuit of grand experiences.</p>",
+        "date": "2023-08-10",
+        "tags": ["joy", "simplicity", "mindfulness"],
+        "lang": "en"
+    },
+    {
+        "id": "time-river-2023-08-05",
+        "type": "quote",
+        "title": "Time as a River",
+        "content": "<p>Time is like a river—you cannot touch the same water twice, because the flow that has passed will never pass again.</p>",
+        "date": "2023-08-05",
+        "tags": ["time", "change", "philosophy"],
+        "lang": "en"
+    },
+    {
+        "id": "urdulove-2023-08-01",
+        "type": "poem",
+        "title": "محبت کی تعریف",
+        "content": "<p>محبت کوئی لفظ نہیں، محبت ایک احساس ہے<br>جو دلوں کو جوڑتا ہے، ہر خاص و عام کے پاس ہے</p>",
+        "date": "2023-08-01",
+        "tags": ["love", "urdu", "poetry"],
+        "lang": "ur"
+    },
+    {
+        "id": "perspective-glass-2023-07-28",
+        "type": "thought",
+        "title": "Perspective as a Lens",
+        "content": "<p>Our perspective is the lens through which we view the world. Sometimes changing our perspective doesn't change the facts, but it changes everything about how we experience them.</p>",
+        "date": "2023-07-28",
+        "tags": ["perspective", "mindset", "wisdom"],
+        "lang": "en"
+    }
+]
