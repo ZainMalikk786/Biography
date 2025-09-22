@@ -1,1 +1,75 @@
 
+[
+    {
+        "id": "growth-discomfort-2023-10-12",
+        "type": "quote",
+        "title": "Growth and Discomfort",
+        "content": "<p>All growth begins at the end of your comfort zone. Discomfort is the price of admission to a meaningful life.</p>",
+        "date": "2023-10-12",
+        "tags": ["growth", "discomfort", "life"],
+        "lang": "en"
+    },
+    {
+        "id": "autumn-leaves-2023-10-08",
+        "type": "poem",
+        "title": "Autumn's Lesson",
+        "content": "<p>The trees are about to show us how lovely it is to let things go.<br>Autumn leaves don't fall, they let go with grace and beauty.</p>",
+        "date": "2023-10-08",
+        "tags": ["autumn", "letting-go", "nature"],
+        "lang": "en"
+    },
+    {
+        "id": "digital-minimalism-2023-10-05",
+        "type": "thought",
+        "title": "On Digital Minimalism",
+        "content": "<p>In an age of infinite distraction, the ability to focus is becoming a superpower. Digital minimalism isn't about rejecting technology, but about using it with intention rather than compulsion.</p>",
+        "date": "2023-10-05",
+        "tags": ["digital", "minimalism", "focus"],
+        "lang": "en"
+    },
+    {
+        "id": "questions-answers-2023-10-01",
+        "type": "quote",
+        "title": "Questions vs Answers",
+        "content": "<p>The quality of your life is determined by the quality of your questions. Often the questions are more important than the answers.</p>",
+        "date": "2023-10-01",
+        "tags": ["questions", "curiosity", "wisdom"],
+        "lang": "en"
+    },
+    {
+        "id": "winter-approaches-2023-09-28",
+        "type": "poem",
+        "title": "Winter Approaches",
+        "content": "<p>A chill is in the morning air,<br>A reminder to prepare<br>For winter's quiet, still embrace,<br>And the slowing down of pace.</p>",
+        "date": "2023-09-28",
+        "tags": ["winter", "seasons", "change"],
+        "lang": "en"
+    },
+    {
+        "id": "meaning-work-2023-09-25",
+        "type": "thought",
+        "title": "On Finding Meaning in Work",
+        "content": "<p>Meaningful work isn't about what you do, but how you approach what you do. Any work can become meaningful when done with presence, care, and the intention to contribute something of value.</p>",
+        "date": "2023-09-25",
+        "tags": ["work", "meaning", "purpose"],
+        "lang": "en"
+    },
+    {
+        "id": "urdu-wisdom-2023-09-20",
+        "type": "quote",
+        "title": "حقیقی دولت",
+        "content": "<p>حقیقی دولت پیسے سے نہیں، اچھے خوابوں، اچھے دوستوں اور اچھے خیالات سے ملتی ہے</p>",
+        "date": "2023-09-20",
+        "tags": ["wealth", "urdu", "wisdom"],
+        "lang": "ur"
+    },
+    {
+        "id": "stillness-movement-2023-09-18",
+        "type": "thought",
+        "title": "Stillness in Movement",
+        "content": "<p>There is a profound stillness that can be found even in the midst of movement—like the eye of a hurricane. The practice is to carry that stillness with us wherever we go.</p>",
+        "date": "2023-09-18",
+        "tags": ["stillness", "mindfulness", "peace"],
+        "lang": "en"
+    }
+]
