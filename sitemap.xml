@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://username.github.io/</loc>
+        <loc>https://zainmalikk786.github.io/Biography/</loc>
         <lastmod>2023-10-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://username.github.io/about.html</loc>
+        <loc>https://zainmalikk786.github.io/Biography/about.html</loc>
         <lastmod>2023-10-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://username.github.io/quotes.html</loc>
+        <loc>https://zainmalikk786.github.io/Biography/quotes.html</loc>
         <lastmod>2023-10-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://username.github.io/poetry.html</loc>
+        <loc>https://zainmalikk786.github.io/Biography/poetry.html</loc>
         <lastmod>2023-10-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://username.github.io/thoughts.html</loc>
+        <loc>https://zainmalikk786.github.io/Biography/thoughts.html</loc>
         <lastmod>2023-10-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://username.github.io/batches/batch-001.json</loc>
+        <loc>https://zainmalikk786.github.io/Biography/batches/batch-001.json</loc>
         <lastmod>2023-10-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://username.github.io/batches/batch-002.json</loc>
+        <loc>https://zainmalikk786.github.io/Biography/batches/batch-002.json</loc>
         <lastmod>2023-10-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
